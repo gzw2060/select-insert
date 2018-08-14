@@ -16,5 +16,7 @@ public class SelectInsertApplication {
 		Map<String, Object> map = new HashMap<String, Object>();
 		map.put("success", true);
 		map.put("msg", "Git测试！");
+		map.put("msg", "Git测试！");
+		map.put("msg", "Git测试！");
 	}
 }
