@@ -18,5 +18,8 @@ public class SelectInsertApplication {
 		map.put("msg", "Git测试！");
 		map.put("msg", "Git测试！");
 		map.put("msg", "Git测试！");
+		map.put("msg", "Git测试！2");
+		map.put("msg", "Git测试！2");
+		map.put("msg", "Git测试！2");
 	}
 }
